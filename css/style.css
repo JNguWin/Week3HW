@@ -11,3 +11,15 @@
 body{
     background-color: darkblue;
 }
+em{
+    color: rgb(143,38,31)
+}
+b{
+    background-color: rgb(199,58,222);
+}
+u{
+    background-color: orange;
+}
+a{
+    color: #109c64;
+}
